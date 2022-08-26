@@ -1,0 +1,15 @@
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\bin\Debug\net6.0\Task_3.exe
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\bin\Debug\net6.0\Task_3.deps.json
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\bin\Debug\net6.0\Task_3.dll
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\bin\Debug\net6.0\Task_3.pdb
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.dll
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.pdb
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+F:\Учеба в ГикБрэйнс\05. Знакомство с языками программирования\Seminar_2-2\Task_3\obj\Debug\net6.0\ref\Task_3.dll
